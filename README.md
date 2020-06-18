@@ -3,10 +3,11 @@
 This repository provides a model for COVID-19 detection for educational purposes only, based on the VGG16 convolutional neural network model. The model currently has 98% accuracy.
 
 # Dataset
-The dataset was collected from :
+The dataset was collected from  :
  - [Database of COVID-19 cases with chest X-ray and CT images](https://github.com/ieee8023/covid-chestxray-dataset)
  - [Chest X-Ray Images/Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/data)
  
+ and it constists of X-rays images (DX modality with Patient Position (0018,5100) = PA = Posterior/Anterior) .
  # Metrics
  
  ![Plot](https://github.com/GavriloviciEduard/SARS-CoV-2-X-Rays-DX-detection/blob/master/res/plot.png)![Stats](https://github.com/GavriloviciEduard/SARS-CoV-2-X-Rays-DX-detection/blob/master/res/stats.png)
