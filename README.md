@@ -9,6 +9,12 @@ The dataset was collected from :
  
  # Metrics
  
+ ![](https://github.com/GavriloviciEduard/SARS-CoV-2-X-Rays-DX-detection/blob/master/res/plot.png)
+ 
+ ![](https://github.com/GavriloviciEduard/SARS-CoV-2-X-Rays-DX-detection/blob/master/res/stats.png)
+
+ 
 # Resources
 - [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 - [Database of COVID-19 cases with chest X-ray and CT images](https://github.com/ieee8023/covid-chestxray-dataset)
+- [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/data)
