@@ -9,8 +9,8 @@ The dataset was collected from :
  
  # Metrics
  
- ![](https://github.com/GavriloviciEduard/SARS-CoV-2-X-Rays-DX-detection/blob/master/res/plot.png)
- ![](https://github.com/GavriloviciEduard/SARS-CoV-2-X-Rays-DX-detection/blob/master/res/stats.png)
+ ![Plot](https://github.com/GavriloviciEduard/SARS-CoV-2-X-Rays-DX-detection/blob/master/res/plot.png)
+ ![Stats](https://github.com/GavriloviciEduard/SARS-CoV-2-X-Rays-DX-detection/blob/master/res/stats.png)
 
  
 # Resources
